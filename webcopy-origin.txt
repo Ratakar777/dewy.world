@@ -1,0 +1,232 @@
+Uri: https://www.dewy.world/
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\index.htm
+Content Type: text/html
+
+Uri: https://www.dewy.world/about
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\about.html
+Content Type: text/html
+
+Uri: https://www.dewy.world/contact
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\contact.html
+Content Type: text/html
+
+Uri: https://www.dewy.world/DEWY.pdf
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\DEWY.pdf
+Content Type: application/pdf
+
+Uri: https://www.dewy.world/favicon.ico
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.dewy.world/mint
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\mint.html
+Content Type: text/html
+
+Uri: https://www.dewy.world/notepad
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\notepad.html
+Content Type: text/html
+
+Uri: https://www.dewy.world/pfp1.jpg
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\pfp1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dewy.world/pfp2.jpg
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\pfp2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dewy.world/pfp3.jpg
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\pfp3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dewy.world/projects
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\projects.html
+Content Type: text/html
+
+Uri: https://www.dewy.world/recycle-bin
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\recycle-bin.html
+Content Type: text/html
+
+Uri: https://www.dewy.world/resume
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\resume.html
+Content Type: text/html
+
+Uri: https://www.dewy.world/site.webmanifest
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://www.dewy.world/terminal
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\terminal.html
+Content Type: text/html
+
+Uri: https://www.dewy.world/_next/image?url=%2Fbackground.jpg&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\background-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dewy.world/_next/image?url=%2Fbackground.jpg&w=1200&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\background-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dewy.world/_next/image?url=%2Fbackground.jpg&w=1920&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\background-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dewy.world/_next/image?url=%2Fbackground.jpg&w=2048&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\background-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dewy.world/_next/image?url=%2Fbackground.jpg&w=3840&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\background.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dewy.world/_next/image?url=%2Fbackground.jpg&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\background-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dewy.world/_next/image?url=%2Fbackground.jpg&w=750&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\background-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dewy.world/_next/image?url=%2Fbackground.jpg&w=828&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\background-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dewy.world/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fme2.a8ba0a71.png&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\me2.png
+Content Type: image/png
+
+Uri: https://www.dewy.world/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fme2.a8ba0a71.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\me2-1.png
+Content Type: image/png
+
+Uri: https://www.dewy.world/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fme3.85f55f15.png&w=1080&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\me3.png
+Content Type: image/png
+
+Uri: https://www.dewy.world/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fme3.85f55f15.png&w=640&q=75
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\me3-1.png
+Content Type: image/png
+
+Uri: https://www.dewy.world/_next/static/chunks/0e5ce63c-186400e1dcb00c50.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\0e5ce63c-186400e1dcb00c50.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/173-f48d5675114dfa74.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\173-f48d5675114dfa74.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/23-aba759ec221bf1ed.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\23-aba759ec221bf1ed.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/231-d152d85611f23a6e.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\231-d152d85611f23a6e.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/334-c015de5d4d7b76bc.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\334-c015de5d4d7b76bc.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/539-50169672ddf2b221.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\539-50169672ddf2b221.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/573-b3c0334fbf701b64.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\573-b3c0334fbf701b64.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/767-9569c28c4793d3c9.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\767-9569c28c4793d3c9.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/854-d1354f563b5a9dbd.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\854-d1354f563b5a9dbd.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/981-4d745d9523af4681.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\981-4d745d9523af4681.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/app/about/page-879eaeef0db0b953.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\app\about\page-879eaeef0db0b953.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/app/contact/page-65a5e7f43698d8a5.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\app\contact\page-65a5e7f43698d8a5.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/app/layout-c112940a33ddb099.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\app\layout-c112940a33ddb099.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/app/mint/page-db472a184ac734b6.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\app\mint\page-db472a184ac734b6.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/app/not-found-345b16f570512675.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\app\not-found-345b16f570512675.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/app/notepad/page-497cdba5ff110e0f.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\app\notepad\page-497cdba5ff110e0f.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/app/page-3489dba878aafa40.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\app\page-3489dba878aafa40.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/app/projects/page-5506e6c8c535eaf7.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\app\projects\page-5506e6c8c535eaf7.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/app/recycle-bin/page-aeba9ccb06286a83.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\app\recycle-bin\page-aeba9ccb06286a83.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/app/resume/page-b3b68cdffe3038cf.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\app\resume\page-b3b68cdffe3038cf.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/app/terminal/page-c46fceacfd54019e.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\app\terminal\page-c46fceacfd54019e.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/fd9d1056-51face16839d2cb0.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\fd9d1056-51face16839d2cb0.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/main-app-f73cdb3bce740b12.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\main-app-f73cdb3bce740b12.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/chunks/webpack-e7fa34bd32953fbb.js
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\chunks\webpack-e7fa34bd32953fbb.js
+Content Type: application/javascript
+
+Uri: https://www.dewy.world/_next/static/css/3031f7e16f0f9dae.css
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\css\3031f7e16f0f9dae.css
+Content Type: text/css
+
+Uri: https://www.dewy.world/_next/static/css/9815a0259ada243e.css
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\css\9815a0259ada243e.css
+Content Type: text/css
+
+Uri: https://www.dewy.world/_next/static/media/3d372fc6ad648ff2-s.p.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\media\3d372fc6ad648ff2-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.dewy.world/_next/static/media/48ec020f6f78e5a6-s.p.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\media\48ec020f6f78e5a6-s.p.ttf
+Content Type: font/ttf
+
+Uri: https://www.dewy.world/_next/static/media/6a60075cb2a5f0ad-s.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\media\6a60075cb2a5f0ad-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.dewy.world/_next/static/media/bf1c75f9dc170279-s.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\dewy\www.dewy.world\_next\static\media\bf1c75f9dc170279-s.woff2
+Content Type: font/woff2
+
